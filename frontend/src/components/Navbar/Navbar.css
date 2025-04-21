@@ -8,6 +8,9 @@
 .navbar .logo {
     width: 150px;
 }
+.navbar h2{
+    color: #FF4C24;
+}
 
 .navbar-menu {
     display: flex;
